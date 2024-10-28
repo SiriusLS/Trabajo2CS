@@ -1,0 +1,9 @@
+C:\Users\lucia\Escritorio\CRUDDAL\bin\Debug\CRUDDAL.dll
+C:\Users\lucia\Escritorio\CRUDDAL\bin\Debug\CRUDDAL.pdb
+C:\Users\lucia\Escritorio\CRUDDAL\bin\Debug\CRUDBOL.dll
+C:\Users\lucia\Escritorio\CRUDDAL\bin\Debug\CRUDBOL.pdb
+C:\Users\lucia\Escritorio\CRUDDAL\obj\Debug\CRUDDAL.csproj.AssemblyReference.cache
+C:\Users\lucia\Escritorio\CRUDDAL\obj\Debug\CRUDDAL.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Escritorio\CRUDDAL\obj\Debug\CRUDDAL.csproj.Up2Date
+C:\Users\lucia\Escritorio\CRUDDAL\obj\Debug\CRUDDAL.dll
+C:\Users\lucia\Escritorio\CRUDDAL\obj\Debug\CRUDDAL.pdb

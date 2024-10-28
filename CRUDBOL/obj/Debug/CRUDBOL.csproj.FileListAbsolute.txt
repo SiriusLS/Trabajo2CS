@@ -1,0 +1,6 @@
+C:\Users\lucia\Escritorio\CRUDBOL\bin\Debug\CRUDBOL.dll
+C:\Users\lucia\Escritorio\CRUDBOL\bin\Debug\CRUDBOL.pdb
+C:\Users\lucia\Escritorio\CRUDBOL\obj\Debug\CRUDBOL.csproj.AssemblyReference.cache
+C:\Users\lucia\Escritorio\CRUDBOL\obj\Debug\CRUDBOL.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Escritorio\CRUDBOL\obj\Debug\CRUDBOL.dll
+C:\Users\lucia\Escritorio\CRUDBOL\obj\Debug\CRUDBOL.pdb

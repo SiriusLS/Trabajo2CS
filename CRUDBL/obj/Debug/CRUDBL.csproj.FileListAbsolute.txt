@@ -1,0 +1,11 @@
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDBL.dll
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDBL.pdb
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDBOL.dll
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDDAL.dll
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDBOL.pdb
+C:\Users\lucia\Escritorio\CRUDBL\bin\Debug\CRUDDAL.pdb
+C:\Users\lucia\Escritorio\CRUDBL\obj\Debug\CRUDBL.csproj.AssemblyReference.cache
+C:\Users\lucia\Escritorio\CRUDBL\obj\Debug\CRUDBL.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Escritorio\CRUDBL\obj\Debug\CRUDBL.csproj.Up2Date
+C:\Users\lucia\Escritorio\CRUDBL\obj\Debug\CRUDBL.dll
+C:\Users\lucia\Escritorio\CRUDBL\obj\Debug\CRUDBL.pdb
